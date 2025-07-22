@@ -1,0 +1,5 @@
+com\azure\productmanagement\ProductManagementApplication.class
+com\azure\productmanagement\repository\ProductRepository.class
+com\azure\productmanagement\model\Product.class
+com\azure\productmanagement\controller\ProductRestController.class
+com\azure\productmanagement\controller\ProductWebController.class
